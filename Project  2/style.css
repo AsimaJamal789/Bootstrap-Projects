@@ -1,0 +1,12 @@
+@import url("https://fonts.googleapis.com/css2?family=Dancing+Script:wght@500&family=Inter:wght@100;200;300;400;500&family=Roboto:ital,wght@0,100;0,300;0,400;1,100;1,300;1,400&display=swap");
+h1 {
+  font-family: "Dancing Script", cursive;
+}
+.carousel-item img {
+  width: 100%;
+  height: 80vh;
+}
+.card-body img {
+  min-width: 50%;
+  max-height: 200px;
+}
